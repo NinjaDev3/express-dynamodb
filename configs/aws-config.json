@@ -1,0 +1,10 @@
+{
+	"dev": {
+		"endpoint": "http://127.0.0.1:8000",
+		"region": "asia-pacific-2" ,
+		"accessKeyId": "myAccessKeyId" ,
+		"secretAccessKey": "mySecretAccessKey",
+		"port": 3000
+	},
+    "env": "dev"
+}
